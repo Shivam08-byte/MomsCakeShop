@@ -1,0 +1,30 @@
+2021-02-06 07:32:13 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM CATEGORY CATEGORY PRODUCT[*]"; SQL statement:
+SELECT * FROM CATEGORY CATEGORY PRODUCT [42000-200]
+2021-03-22 14:56:23 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ROLES" not found; SQL statement:
+INSERT INTO roles(id,name)VALUES
+(1,'ROLE_ADMIN')
+(2,'ROLE_USER') [42102-200]
+2021-03-22 14:57:20 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ROLES" not found; SQL statement:
+INSERT INTO roles(id,name)VALUES
+(1,'ROLE_ADMIN'),
+(2,'ROLE_USER') [42102-200]
+2021-03-22 15:05:48 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLE(USER_ID,ROLE_ID) VALUES
+(1,1)
+([*]1,2)"; SQL statement:
+insert into user_role(user_id,role_id) values
+(1,1)
+(1,2) [42000-200]
+2021-03-22 15:32:37 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into users(id,email,password,first_name,last_Name)values
+(1,'shivammalviya33822@gmail.com','$2a$10$g/roG6bgkc83JNh21YVTD.BMq6KURT2uz3JKqN9lNi2q/RPdasWn.',ShivamAdmin','Malviya[*]');"; SQL statement:
+insert into users(id,email,password,first_name,last_Name)values
+(1,'shivammalviya33822@gmail.com','$2a$10$g/roG6bgkc83JNh21YVTD.BMq6KURT2uz3JKqN9lNi2q/RPdasWn.',ShivamAdmin','Malviya'); [42000-200]
+2021-03-22 15:39:34 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ROLES" not found; SQL statement:
+INSERT INTO roles (id, name) VALUES
+(1, 'ROLE_ADMIN'),
+(2, 'ROLE_USER') [42102-200]

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cb4f5dc-6d06-4b09-b960-70b502ba333b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nbzY562bg8rjfYqDFzGA9fd0fz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MajorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="major" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sheryians.major.MajorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cb4f5dc-6d06-4b09-b960-70b502ba333b" name="Default Changelist" comment="" />
+      <created>1611673627406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611673627406</updated>
+      <workItem from="1611673695703" duration="1795000" />
+      <workItem from="1612403715740" duration="7232000" />
+      <workItem from="1612485900784" duration="5137000" />
+      <workItem from="1612575048090" duration="5587000" />
+      <workItem from="1612595110018" duration="1229000" />
+      <workItem from="1612659049202" duration="4405000" />
+      <workItem from="1612751520048" duration="1043000" />
+      <workItem from="1612839493548" duration="350000" />
+      <workItem from="1615879128910" duration="2399000" />
+      <workItem from="1616133102080" duration="6870000" />
+      <workItem from="1616217810886" duration="6129000" />
+      <workItem from="1616302510254" duration="6056000" />
+      <workItem from="1616338958569" duration="2354000" />
+      <workItem from="1616404699951" duration="7956000" />
+      <workItem from="1616515333087" duration="1423000" />
+      <workItem from="1616521332890" duration="991000" />
+      <workItem from="1625122360240" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:G:/webdev/sherians/major/Cake Shop/major/src/main/resources/templates" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="113" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1616411344193">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="433" y="113" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.834@0.0.1536.834" timestamp="1616411344193" />
+    <state x="527" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1616310071650">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="527" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1616310071650" />
+    <state x="446" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1616516611160">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="446" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1616516611160" />
+    <state width="1481" height="637" key="GridCell.Tab.0.bottom" timestamp="1616517231687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="637" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1616517231687" />
+    <state width="1481" height="637" key="GridCell.Tab.0.center" timestamp="1616517231687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="637" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1616517231687" />
+    <state width="1481" height="637" key="GridCell.Tab.0.left" timestamp="1616517231671">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="637" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1616517231671" />
+    <state width="1481" height="637" key="GridCell.Tab.0.right" timestamp="1616517231687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="637" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1616517231687" />
+    <state width="1481" height="637" key="GridCell.Tab.1.bottom" timestamp="1616517231688">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="637" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1616517231688" />
+    <state width="1481" height="637" key="GridCell.Tab.1.center" timestamp="1616517231687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="637" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1616517231687" />
+    <state width="1481" height="637" key="GridCell.Tab.1.left" timestamp="1616517231687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="637" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1616517231687" />
+    <state width="1481" height="637" key="GridCell.Tab.1.right" timestamp="1616517231687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="637" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1616517231687" />
+    <state x="321" y="0" key="SettingsEditor" timestamp="1615879201968">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="321" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1615879201968" />
+    <state x="36" y="0" key="new project wizard" timestamp="1612752146251">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="36" y="0" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1612752146251" />
+  </component>
+</project>

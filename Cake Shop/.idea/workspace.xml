@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b5de808-33d0-4784-b010-1ea7f18aa587" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1nzoU5QH9Tkx53A0gnsdqFZD9o0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b5de808-33d0-4784-b010-1ea7f18aa587" name="Default Changelist" comment="" />
+      <created>1612402298444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612402298444</updated>
+      <workItem from="1612402340353" duration="1023000" />
+      <workItem from="1614855103228" duration="1369000" />
+      <workItem from="1614856717980" duration="819000" />
+      <workItem from="1615693491857" duration="66000" />
+      <workItem from="1615879037771" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="247" y="0" width="1056" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615693558548">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="247" y="0" width="1056" height="707" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1615693558548" />
+    <state x="519" y="256" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1614857506814">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="519" y="256" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1614857506814" />
+    <state x="621" y="47" key="EnvironmentVariablesDialog" timestamp="1614857552947">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="621" y="47" key="EnvironmentVariablesDialog/0.0.1536.834@0.0.1536.834" timestamp="1614857552947" />
+    <state x="495" y="113" key="FileChooserDialogImpl" timestamp="1614857160204">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="495" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1614857160204" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1612403505701">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1612403505701" />
+    <state x="341" y="186" key="run.anything.popup" timestamp="1614855906353">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="341" y="186" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1614855906353" />
+  </component>
+</project>
